@@ -1,5 +1,5 @@
 # simple-backend
-This is a simple nodejs stateful backend with a tasks CRUD, without any auxiliaries packages, built from zero. 
+This is a simple RESTful nodejs stateful backend with a tasks CRUD, without any auxiliaries packages, built from zero. 
 
 ## What is expected this application to do?
 - create task
