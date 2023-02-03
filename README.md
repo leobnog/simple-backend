@@ -18,3 +18,11 @@ This is a simple nodejs stateful backend with a tasks CRUD, without any auxiliar
 
 ## import csv - details
 To import the csv we are going to use the stream concept from nodejs and work with partial reading/writing actions.
+
+## running the project
+1. clone the project
+2. npm install
+3. npm run dev
+4. do the requests using your favorite http request app. e.g. Postman, Thunder client, etc.
+
+### Feel free to do your own changes on the code. Enjoy yourself.
